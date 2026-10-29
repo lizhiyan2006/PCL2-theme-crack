@@ -1,0 +1,5 @@
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\PCLX\bin\Debug\net48\PCLX.dll
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\PCLX\obj\Debug\net48\PCLX.csproj.AssemblyReference.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\PCLX\obj\Debug\net48\PCLX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\PCLX\obj\Debug\net48\PCLX.csproj.CoreCompileInputs.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\PCLX\obj\Debug\net48\PCLX.dll

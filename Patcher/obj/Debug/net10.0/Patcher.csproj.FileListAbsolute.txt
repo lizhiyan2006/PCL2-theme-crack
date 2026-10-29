@@ -1,0 +1,17 @@
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\Patcher.exe
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\Patcher.deps.json
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\Patcher.runtimeconfig.json
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\Patcher.dll
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\Patcher.pdb
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\bin\Debug\net10.0\dnlib.dll
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.csproj.AssemblyReference.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.AssemblyInfoInputs.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.AssemblyInfo.cs
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.csproj.Up2Date
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.dll
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\refint\Patcher.dll
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.pdb
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\Patcher.genruntimeconfig.cache
+C:\Users\lizhiyan394\Documents\deepseek-harness\default-workspace\pcl-work\tools\Patcher\obj\Debug\net10.0\ref\Patcher.dll
